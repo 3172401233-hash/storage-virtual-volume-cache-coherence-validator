@@ -1,0 +1,13 @@
+{
+  "name": "storage-virtual-volume-cache-coherence-validator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "本地模型：验证虚拟卷缓存映射、失效与迁移期间的缓存一致性",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
